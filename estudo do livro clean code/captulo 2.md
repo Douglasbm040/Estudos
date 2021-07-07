@@ -1,4 +1,4 @@
-CAPITULO 1 - BATIZADO
+CAPITULO 2 - BATIZADO
 
 1. Use nomes revelem seu propósito
 - Evitar abreviações ;
